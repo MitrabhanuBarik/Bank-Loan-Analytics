@@ -63,7 +63,7 @@ Total Revolve Balance: 531M+
 Average DTI: 13.32
 
 ### 🔹Power BI Dashboard
-![Power BI](Screenshots/Power_BI.png)
+![Power BI](Screenshots/Power%20BI.png)
 Key Features:
 KPI cards (loan amount, customers, interest rate, DTI)
 Year-wise loan growth analysis (2007–2011 📈)
